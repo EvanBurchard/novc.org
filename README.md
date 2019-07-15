@@ -1,6 +1,24 @@
+What does "Tech" mean?
+It seems to correspond to a growth curve that only works with highly financialized companies.
+
+What's wrong with tech?
+* All the things everyone else has pointed out, not specific to the industry.
+* Persistent effort to keep critiques to small seperate missteps, punishing others harshly.
+*
+
+What can we do?
+Commit not just to react to the latest failure and campaign, but work consistently towards counter and alternative systems.
+
+In a big workplace, committing to
+
+Not reactive. Instead of having only responses to issues, we can build
+counter institutions that have powerful responses ready. We can build
+alternative institutions which can take over slowly (kind of like
+"strangler apps" rather than rebuilds).
+
 # novc
 
-NOVC is a list of companies that are focused on sustainable growth and a healthy tech ecosystem.
+NOVC is a podcast
 
 # Why?
 
